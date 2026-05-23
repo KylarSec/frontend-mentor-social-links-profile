@@ -14,7 +14,7 @@ This is my solution to the Social Links Profile challenge from Frontend Mentor.
 
 ## Links
 
-- Live Site: https://your-netlify-link.netlify.app/
+- Live Site: https://dainty-beijinho-a523f7.netlify.app/
 - Repository: https://github.com/KylarSec/frontend-mentor-social-links-profile
 
 ## Built With
